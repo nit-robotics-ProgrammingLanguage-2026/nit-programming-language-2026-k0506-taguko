@@ -7,7 +7,7 @@ int main(void)
     scanf("%lf", &r);
     if (/*r >= 0*/0 < r)
     {
-        printf("%.2f", r * r * 2.2);
+        printf("%.2f", r * r * 22.0);
     }
     else
     {
